@@ -4,19 +4,19 @@ var settings = {
   social: {
     
     // Twitch Name
-    twitchUsername: "ChangeThis",
+    twitchUsername: "SpaceTimeMatters",
     
     // Twitter Name
-    twitterUsername: "ChangeThis",
+    twitterUsername: "ItsSpaceTime",
     
     // Facebook Name
     facebookUsername: "ChangeThis",
     
     // Instagram Name
-    instagramUsername: "ChangeThis",
+    instagramUsername: "ItsSpaceTime",
     
     // Youtube Name
-    youtubeUsername: "ChangeThis",
+    youtubeUsername: "ItsSpaceTime",
     
     // Tumblr Name
     tumblrUsername: "ChangeThis",
@@ -84,52 +84,52 @@ var settings = {
     enableYoutube: 1,
     
     // Enable Tumblr
-    enableTumblr: 1,
+    enableTumblr: 0,
     
     // Enable Twitch
-    enableTwitch: 1,
+    enableTwitch: 0,
     
     // Enable PayPal
-    enablePaypal: 1,
+    enablePaypal: 0,
     
      // Enable Patreon
-    enablePatreon: 1,
+    enablePatreon: 0,
     
     // Enable Snapchat
-    enableSnapchat: 1,
+    enableSnapchat: 0,
     
     // Enable Steam
-    enableSteam: 1,
+    enableSteam: 0,
     
     // Enable Xbox
-    enableXbox: 1,
+    enableXbox: 0,
     
     // Enable Playstation Network
-    enablePsn: 1,
+    enablePsn: 0,
     
      // Enable Origin Network
-    enableOrigin: 1,
+    enableOrigin: 0,
     
     // Enable Uplay Network
-    enableUplay: 1,
+    enableUplay: 0,
     
     // Enable Nintendo Network
-    enableNintendo: 1,
+    enableNintendo: 0,
     
     // Enable Battle Net Network
-    enableBattleNet: 1,
+    enableBattleNet: 0,
     
     // Enable Deviant Art Network
-    enableDeviantArt: 1,
+    enableDeviantArt: 0,
     
     // Enable Reddit Network
-    enableReddit: 1,
+    enableReddit: 0,
     
     // Enable Game Wisp Network
-    enableGameWisp: 1,
+    enableGameWisp: 0,
     
     // Enable Plays TV Network
-    enablePlaysTv: 1,
+    enablePlaysTv: 0,
     
     
     //
