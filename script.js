@@ -140,7 +140,7 @@ var settings = {
     aTime: 4,
     
     // The delay for the animation cycle to restart in seconds
-    pauseTime: 120
+    pauseTime: 240
   }
 };
 
